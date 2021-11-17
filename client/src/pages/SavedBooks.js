@@ -23,7 +23,7 @@ const SavedBooks = () => {
         variables: { bookId},
       });
       if(!response){
-        throw new Error('something is wrong');
+        throw new Error('something went wrong');
       }
       removeBookId(bookId);
     }catch(err){
