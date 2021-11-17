@@ -1,6 +1,5 @@
 import React from 'react';
 import { Jumbotron, Container, CardColumns, Card, Button } from 'react-bootstrap';
-
 import Auth from '../utils/auth';
 import { removeBookId } from '../utils/localStorage';
 import { useQuery, useMutation } from '@apollo/client';
@@ -34,8 +33,6 @@ const SavedBooks = () => {
   if(loading){
     return <h2>LOADING...</h2>;
   }
-
-  
 
   return (
     <>
