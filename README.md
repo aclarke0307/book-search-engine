@@ -1,1 +1,25 @@
 # Book Search Engine Starter Code
+
+## Description
+A MERN stack application using Graphql and Apollo server. A Book Search Engine where the user can create a profile to search their favorite books. The user can view their saved books and also delete the books. 
+## Screenshot
+![homepage](/images/Screenshot1.png)
+## Built with
+Graphql
+Express
+Bootstrap
+Apollo server
+Mongoose
+MongoDB
+JsonWebToken
+React
+Reacy Router Dom
+Heroku
+
+## Deployed Link
+https://book-search7.herokuapp.com/
+
+## Contributing
+aclarke0307
+
+
