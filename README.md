@@ -5,16 +5,16 @@ A MERN stack application using Graphql and Apollo server. A Book Search Engine w
 ## Screenshot
 ![homepage](/images/Screenshot1.png)
 ## Built with
-Graphql
-Express
-Bootstrap
-Apollo server
-Mongoose
-MongoDB
-JsonWebToken
-React
-Reacy Router Dom
-Heroku
+Graphql<br>
+Express<br>
+Bootstrap<br>
+Apollo server<br>
+Mongoose<br>
+MongoDB<br>
+JsonWebToken<br>
+React<br>
+React Router Dom<br>
+Heroku<br>
 
 ## Deployed Link
 https://book-search7.herokuapp.com/
